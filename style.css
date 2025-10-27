@@ -101,7 +101,7 @@ form{
 .box-info{
     display: flex;
     flex-direction: row;
-    color: red;
+    color: rgb(173, 11, 11);
     padding: 40px;
     justify-content: center;
 }
@@ -128,5 +128,5 @@ form{
     height: auto;
     padding-left: 50px;
     margin-right: 5px;
-    margin-top: 120px;
+    margin-top: 170px;
 }
